@@ -13,7 +13,7 @@ $redirect_to_ssl = true;
 ```
 
 To install these templates, place:
-`nginxSeoSafeRedirects.php` in `/usr/local/psa/admin/conf/templates/custom/domain/service`
-`nginxDomainVirtualHost.php` in `/usr/local/psa/admin/conf/templates/custom/domain`
+* `nginxSeoSafeRedirects.php` in `/usr/local/psa/admin/conf/templates/custom/domain/service`
+* `nginxDomainVirtualHost.php` in `/usr/local/psa/admin/conf/templates/custom/domain`
 
 There is also ![a version that works with Plesk 17.X (Plesk Onyx)](https://github.com/yurimataev/plesk17-nginx-config).
